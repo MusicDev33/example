@@ -1,0 +1,19 @@
+{
+  "name": "press-kit-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MusicDev33/example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MusicDev33/example/issues"
+  },
+  "homepage": "https://github.com/MusicDev33/example#readme"
+}
